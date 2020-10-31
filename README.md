@@ -10,7 +10,7 @@
 
 许可证: GPL
 
-许可证URI: #
+许可证URI: https://github.com/Yu20001126/opensource-teamwork/blob/main/LICENSE
 
 
 
